@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "testcafe-reporter-html": "^1.4.4",
+    "testcafe-reporter-html": "^1.4.6",
     "testcafe-reporter-spec": "^2.1.1"
   },
   "devDependencies": {
-    "testcafe": "^1.1.2"
+    "testcafe": "^1.20.1"
   },
   "scripts": {
     "test": "testcafe firefox src/step",
